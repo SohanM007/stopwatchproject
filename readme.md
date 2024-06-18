@@ -1,4 +1,4 @@
-<!-- git init   -  initialize
+git init   -  initialize
 ls -a      - its gonna show all file 
 git status - what's currently going on 
 git add.   - all the changes(file) we want to stage.
@@ -18,4 +18,8 @@ Now we can declear main(M) is my main branch -
 
 
 now what evever there is changes we want to push that to the origin -
-       git push -u origin main -->
+       git push -u origin main
+
+
+       
+checking conflict 
