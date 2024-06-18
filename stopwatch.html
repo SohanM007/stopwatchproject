@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stopwatch</title>
+</head>
+<body>
+ <div id="counter">0</div>
+ <div><input id="timeInput"
+  type="number" placeholder="Enter Time in mins" 
+  oninput="handleTimeInputChange(event)"></div>
+ <br />
+<button type="button" onclick="handleStart()">Start</button>
+<button type="button" onclick="handlePause()">Pause</button>
+<button type="button" onclick="handleReset()">Reset</button>
+<script src="stopwatch.js"></script>
+
+</body>
+</html>
