@@ -11,6 +11,7 @@ then go to the git create new repositories -
 
 
 come to terminal and type or copy from github -
+
    git remote add origin https://github.com/SohanM007/stopwatchproject.git
 
 Now we can declear main(M) is my main branch -
@@ -19,3 +20,5 @@ Now we can declear main(M) is my main branch -
 
 now what evever there is changes we want to push that to the origin -
        git push -u origin main -->
+
+       <!-- mhgbjm -->
